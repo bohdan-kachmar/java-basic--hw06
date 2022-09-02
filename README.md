@@ -1,1 +1,1 @@
-# java-basic-hw06
+# java-basic-hw-06
